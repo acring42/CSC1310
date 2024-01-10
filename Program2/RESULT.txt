@@ -1,0 +1,83 @@
+Hello! My name is Gavin O Cleirigh and I am your professional travel agent, tour director, and guide!
+                                                                                                                                                      
+                                                             .%&&#&%@@@@%@@#.                                                                         
+                                                        %@&@@@@@@@(@@@@@&&@@@@@@@                                                                     
+                                                      &&@@@@@@@(&&@@@@@@@&&@@@@@@&@(                                                                  
+                                                     &@@@@&&&&%%##(#//((//(##%%&@&&&@&                                                                
+                                                    %@@@@#**,*,***,,.,..,,,,**//#%&&&@%(                                                              
+                                                   *(&##/*,,,,,.........,,,,,**//(%&@%&&*                                                             
+                                                    &&&(**,,,,,.........,,,,,***/(#%@&@%*                                                             
+                                                   .&&&#**,,,,,.........,,,,,***/(%&&@@@#                                                             
+                                                    .%%&**,,,,,..........,,,,***//%&@&&@&                                                             
+                                                     ,%@**//**/**,,,,,*(%&%#((/(/((%&&@@&&                                                            
+                                                      (&*//#@@@&&%,.,/#(%/#@%#%#///(&@&(##                                                            
+                                                      (#*****,*,,,,,,**,,***/*,***//##%/**                                                            
+                                                       **,,,,..,,*,,,*/*,..,.,,,*//(##(**/                                                            
+                                                       ,(**,,,,.**,,,*/*,,,,,,**//(/(#//,                                                             
+                                                         ***,,,,,%@&&@&&/,,,,***///(((*,                                                              
+                                                         ****,********/**//****///(((#/                                                               
+                                                         ./*****(%@&&&#/(%&%/*//(((((.                                                                
+                                                          ,/******//(#(((/****/(/(##(,                                                                
+                                                           ,/////****,*****///((###((##                                                               
+                                                             ((///******/(/((#####(/( ...,,                                                           
+                                                               (##((###(######%#(//..,.  /(((,,,                                                      
+                                                              ,///(#######%##(/**  .,.  /((((////*,.......                                            
+                                                              ./**/////(((///*    .,. */(((////////////////*........                                  
+                                                          ..  .*(,,********.     .,. *////((/////////////////////////, ..                             
+                                                    ,////*,,. ../,,,,,,,,., ..  ....*****/////%//////////////////////////*                            
+                                               ,*/////////.. . . ,,,...,.,,.,.. ...********//**/////////////*/**/***///*//                            
+                                            */////////(///...     .,........    .,*******////*//(////////*******/**/*///(/                            
+                                          ,//////////(///* .  ..,   ,.....      ,*********,*/////////////*********/*////((                            
+                                         ./////////(////*%*       ...          .**********///(////////***********/////((((                            
+                                         //////////////*#.                    .**********/*/*//////*****//******/*/////(((                            
+                                         ////////(/(//*#/                    .*********//*//*/*///*****//*****/(*////(((((                            
+                                        ./////*//((/////                     ***********//************////***////////(((((                            
+                                        ,/////*///(//*(.                    **********/(///*//******/////*///(/*////((((((                            
+-----Destination 1 -----
+PLACE:  Beckley, West Virginia
+DESCRIPTION:  Beckley is a city in and the county seat of Raleigh County, West Virginia, United States. It was founded on April 4, 1838. Beckley was named in honor of John James Beckley, who was the first Clerk of the House of Representatives and the first Librarian of Congress.  A notable site in the city is the Beckley Exhibition Coal Mine, a preserved coal mine that offers daily tours and a history lesson on coal mining in Appalachia.  Sometimes there are reports of visitors seeing the monster called the Mothman.
+TRAVEL COST:  $856.34
+DANGER SCORE:  8
+-----Destination 2 -----
+PLACE:  Bikini Bottom
+DESCRIPTION:  A square yellow sponge named SpongeBob SquarePants lives in a pineapple with his pet snail, Gary, in the city of Bikini Bottom on the floor of the Pacific Ocean. He works as a fry cook at the Krusty Krab.
+TRAVEL COST:  $98.43
+DANGER SCORE:  6
+-----Destination 3 -----
+PLACE:  Forest of Fangorn in Middle-Earth
+DESCRIPTION:  Middle-earth is the main continent of Earth in a (supposedly imaginary) period of the Earth's past with the end of the Third Age about 6,000 years ago. The forest of Fangorn is the last remaining residence of Ents, who are tree-like creatures and are considered shepherds of the trees.
+TRAVEL COST:  $543965
+DANGER SCORE:  9
+-----Destination 4 -----
+PLACE:  Land of Oz
+DESCRIPTION:  Oz is roughly rectangular in shape, and divided along the diagonals into four countries: Munchkin Country (but commonly referred to as 'Munchkinland' in adaptations) in the East, Winkie Country in the West (sometimes West and East are reversed on maps of Oz, see West and East below), Gillikin Country in the North, and Quadling Country in the South. In the center of Oz, where the diagonals cross, is the fabled Emerald City, capital of the land of Oz and seat to the monarch of Oz, Princess Ozma.  Oz is completely surrounded on all four sides by a desert which insulates the citizens of the Land of Oz from discovery and invasion. Oz is mostly a peaceful land.
+TRAVEL COST:  $12345.5
+DANGER SCORE:  3
+-----Destination 5 -----
+PLACE:  Melmac (planet)
+DESCRIPTION:  Melmac is a strange planet located in the Aldente Nebula in the Andromeda Galaxy. It is the homeworld of ALF. Residents of the planet were called Melmacians and they were characterized as being short, furry creatures who have remarkable longevity and multiple stomachs. Melmac is located six parsecs past the Hydra-Centaurus Supercluster. Melmac is very much like Earth but it has two moons, it is oddly shaped and made of melmac. Melmac has green skies and blue grass, and it orbits a purple sun.
+TRAVEL COST:  $54394.5
+DANGER SCORE:  2
+-----Destination 6 -----
+PLACE:  Narnia (world)
+DESCRIPTION:  The mystical world of Narnia is a disc-shaped world (unlike Earth, which is spherical), with the sky like a great dome that meets the world around its circumference, on which the other side, and indeed all around the world's edges, is the mysterious land called Aslan's Country.  The guardian and creator of the Narnian World, with the help of a few people, is the Great Lion, Aslan, himself who sent people (mostly children) from our own earth on missions to save Narnian society from destruction.
+TRAVEL COST:  $0.75
+DANGER SCORE:  7
+-----Destination 7 -----
+PLACE:  Strawberryland
+DESCRIPTION:  Strawberryland is where Strawberry Shortcake lives with her calico cat Custard.  Her house resembles a shortcake. Her friends are Huckleberry Pie, Blueberry Muffin, Raspberry Tart, Plum Puddin and toddler Apple Dumplin who also live close by.
+TRAVEL COST:  $5643.87
+DANGER SCORE:  1
+Please answer the following four questions and I will determine the place you should travel.
+
+	1. What is your full name?	
+	2. How much money do you make per year?	Oops! You entered something wonky. Please enter a number:  
+	3. Do you prefer Chocolate over Vanilla ice cream? (y/n)	Oops! You entered something wonky. Please enter a character:  Oops! You entered something wonky. Please enter a character:  
+	4. Do you watch a lot of TV/Movies? (y/n)	Oops! You entered something wonky. Please enter a character:  
+PLACE:  Narnia (world)
+DESCRIPTION:  The mystical world of Narnia is a disc-shaped world (unlike Earth, which is spherical), with the sky like a great dome that meets the world around its circumference, on which the other side, and indeed all around the world's edges, is the mysterious land called Aslan's Country.  The guardian and creator of the Narnian World, with the help of a few people, is the Great Lion, Aslan, himself who sent people (mostly children) from our own earth on missions to save Narnian society from destruction.
+TRAVEL COST:  $0.75
+DANGER SCORE:  7
+
+
+HAVE FUN!!

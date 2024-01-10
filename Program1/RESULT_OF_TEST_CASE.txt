@@ -1,0 +1,639 @@
+
+How many video games can your library hold?
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+Name of File? (ex. FileName.txt)
+
+Unable to open file!
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+Name of File? (ex. FileName.txt)
+The Witcher 3: Wild Hunt was added to the video game library!
+God of War was added to the video game library!
+Chrono Trigger was added to the video game library!
+Super Mario Bros. was added to the video game library!
+Super Smash Bros. Ultimate was added to the video game library!
+	*Resizing array from 5 to 10.*
+Call of Duty: Advanced Warfare was added to the video game library!
+Luigi's Mansion 3 was added to the video game library!
+The Legend of Zelda: Breadth of the Wild was added to the video game library!
+The Legend of Zelda: Twilight Princess was added to the video game library!
+Zumba Fitness Rush was added to the video game library!
+	*Resizing array from 10 to 20.*
+The Sims was added to the video game library!
+The Elder Scrolls V: Skyrim was added to the video game library!
+Just Dance 2020 was added to the video game library!
+World of Warcraft was added to the video game library!
+Pitfall! was added to the video game library!
+Barbie was added to the video game library!
+Bump n Jump was added to the video game library!
+Frogger was added to the video game library!
+Silent Hill was added to the video game library!
+Kirby's Adventure was added to the video game library!
+
+20 games were read from the file and added to the library!
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+Name of File? (ex. FileName.txt)
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+
+Enter Game Title
+Enter Game Platform
+Enter Game Year
+Enter Game Genre
+Enter Age Rating
+Enter User Rating
+	*Resizing array from 20 to 40.*
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+
+Movie 1
+	Game Title: The Witcher 3: Wild Hunt
+	Platform: Xbox One, PC, PlayStation 4
+	Year Released: 2015
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 96
+Movie 2
+	Game Title: God of War
+	Platform: PlayStation 4
+	Year Released: 2018
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 96
+Movie 3
+	Game Title: Chrono Trigger
+	Platform: Nintendo DS, Wii, PlayStation, SNES, PC, iOS, Android
+	Year Released: 1995
+	Genre: Role-playing(RPG)
+	Rating: E10+
+	Number of Stars: 94
+Movie 4
+	Game Title: Super Mario Bros.
+	Platform: Wii U, Nintendo 3EDS, Wii, Game Boy Color, SNES, Game Boy Advance, NES
+	Year Released: 1985
+	Genre: Adventure, Platform
+	Rating: E
+	Number of Stars: 84
+Movie 5
+	Game Title: Super Smash Bros. Ultimate
+	Platform: Nintendo Switch
+	Year Released: 2018
+	Genre: Fighting
+	Rating: E10+
+	Number of Stars: 88
+Movie 6
+	Game Title: Call of Duty: Advanced Warfare
+	Platform: Xbox 360, Xbox One, PC, Playstation 4, Playstation 3
+	Year Released: 2014
+	Genre: Shooter
+	Rating: M17+
+	Number of Stars: 73
+Movie 7
+	Game Title: Luigi's Mansion 3
+	Platform: Ninendo Switch
+	Year Released: 2019
+	Genre: Adventure
+	Rating: E
+	Number of Stars: 81
+Movie 8
+	Game Title: The Legend of Zelda: Breadth of the Wild
+	Platform: Wii U, Nintendo Switch
+	Year Released: 2017
+	Genre: Adventure, Role-playing(RPG)
+	Rating: E10+
+	Number of Stars: 93
+Movie 9
+	Game Title: The Legend of Zelda: Twilight Princess
+	Platform: Wii, Nintendo GameCube
+	Year Released: 2006
+	Genre: Adventure, Platform, Puzzle, Role-playing(RPG), Sport
+	Rating: T
+	Number of Stars: 87
+Movie 10
+	Game Title: Zumba Fitness Rush
+	Platform: Xbox 360
+	Year Released: 2012
+	Genre: Music, Fitness
+	Rating: E10+
+	Number of Stars: 70
+Movie 11
+	Game Title: The Sims
+	Platform: Mac, PlayStation 2, Nintendo GameCube, PC, Xbox
+	Year Released: 2000
+	Genre: Simulator, Strategy
+	Rating: T
+	Number of Stars: 80
+Movie 12
+	Game Title: The Elder Scrolls V: Skyrim
+	Platform: Xbox 360, PlayStation 3, PC
+	Year Released: 2011
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 88
+Movie 13
+	Game Title: Just Dance 2020
+	Platform: Wii, Nintendo Switch, Xbox One, PC, Playstation 4
+	Year Released: 2019
+	Genre: Music, Fitness
+	Rating: E10+
+	Number of Stars: 76
+Movie 14
+	Game Title: World of Warcraft
+	Platform: PC, Mac
+	Year Released: 2004
+	Genre: Adventure, Role-playing(RPG)
+	Rating: T
+	Number of Stars: 86
+Movie 15
+	Game Title: Pitfall!
+	Platform: Xbox 360, Atari, MSX, PC, NES, Intellivision, ColecoVision, Apple II, Windows Phone, iOS, Android, Commodore 64, Comodore 128
+	Year Released: 1982
+	Genre: Platform
+	Rating: E
+	Number of Stars: 74
+Movie 16
+	Game Title: Barbie
+	Platform: Commodore 64, Commodore 128
+	Year Released: 1984
+	Genre: Simulator
+	Rating: E
+	Number of Stars: 83
+Movie 17
+	Game Title: Bump n Jump
+	Platform: Intellivision, Arcade, Atari 2600, ColecoVision, NES, Sharp X1
+	Year Released: 1982
+	Genre: Arcade, Racing
+	Rating: E
+	Number of Stars: 68
+Movie 18
+	Game Title: Frogger
+	Platform: Commodore, Intellivison, Arcade, Atari, PC DOS, ColecoVision, Mac, Phillips Videopac G7000, Game Boy Color, Apple II, SNES, MSX, Sega Mega Drive Genesis, Game Boy, Texus Instruments TI-99
+	Year Released: 1981
+	Genre: Arcade, Platform
+	Rating: E
+	Number of Stars: 65
+Movie 19
+	Game Title: Silent Hill
+	Platform: Playstation
+	Year Released: 1999
+	Genre: Adventure, Puzzle
+	Rating: M17+
+	Number of Stars: 85
+Movie 20
+	Game Title: Kirby's Adventure
+	Platform: Wii, NES, Wii U, Nintendo Switch
+	Year Released: 1993
+	Genre: Adventure, Platform
+	Rating: E
+	Number of Stars: 84
+Movie 21
+	Game Title: Halo 2
+	Platform: XBox One, PC, XBox
+	Year Released: 2004
+	Genre: Shooter
+	Rating: M17+
+	Number of Stars: 85
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+
+Choose a game to remove:
+
+Movie 1: The Witcher 3: Wild Hunt
+Movie 2: God of War
+Movie 3: Chrono Trigger
+Movie 4: Super Mario Bros.
+Movie 5: Super Smash Bros. Ultimate
+Movie 6: Call of Duty: Advanced Warfare
+Movie 7: Luigi's Mansion 3
+Movie 8: The Legend of Zelda: Breadth of the Wild
+Movie 9: The Legend of Zelda: Twilight Princess
+Movie 10: Zumba Fitness Rush
+Movie 11: The Sims
+Movie 12: The Elder Scrolls V: Skyrim
+Movie 13: Just Dance 2020
+Movie 14: World of Warcraft
+Movie 15: Pitfall!
+Movie 16: Barbie
+Movie 17: Bump n Jump
+Movie 18: Frogger
+Movie 19: Silent Hill
+Movie 20: Kirby's Adventure
+Movie 21: Halo 2
+Pick a number between 1 and 21:
+
+The video game, Super Mario Bros., has been removed from the library!
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+
+Movie 1
+	Game Title: The Witcher 3: Wild Hunt
+	Platform: Xbox One, PC, PlayStation 4
+	Year Released: 2015
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 96
+Movie 2
+	Game Title: God of War
+	Platform: PlayStation 4
+	Year Released: 2018
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 96
+Movie 3
+	Game Title: Chrono Trigger
+	Platform: Nintendo DS, Wii, PlayStation, SNES, PC, iOS, Android
+	Year Released: 1995
+	Genre: Role-playing(RPG)
+	Rating: E10+
+	Number of Stars: 94
+Movie 4
+	Game Title: Super Smash Bros. Ultimate
+	Platform: Nintendo Switch
+	Year Released: 2018
+	Genre: Fighting
+	Rating: E10+
+	Number of Stars: 88
+Movie 5
+	Game Title: Call of Duty: Advanced Warfare
+	Platform: Xbox 360, Xbox One, PC, Playstation 4, Playstation 3
+	Year Released: 2014
+	Genre: Shooter
+	Rating: M17+
+	Number of Stars: 73
+Movie 6
+	Game Title: Luigi's Mansion 3
+	Platform: Ninendo Switch
+	Year Released: 2019
+	Genre: Adventure
+	Rating: E
+	Number of Stars: 81
+Movie 7
+	Game Title: The Legend of Zelda: Breadth of the Wild
+	Platform: Wii U, Nintendo Switch
+	Year Released: 2017
+	Genre: Adventure, Role-playing(RPG)
+	Rating: E10+
+	Number of Stars: 93
+Movie 8
+	Game Title: The Legend of Zelda: Twilight Princess
+	Platform: Wii, Nintendo GameCube
+	Year Released: 2006
+	Genre: Adventure, Platform, Puzzle, Role-playing(RPG), Sport
+	Rating: T
+	Number of Stars: 87
+Movie 9
+	Game Title: Zumba Fitness Rush
+	Platform: Xbox 360
+	Year Released: 2012
+	Genre: Music, Fitness
+	Rating: E10+
+	Number of Stars: 70
+Movie 10
+	Game Title: The Sims
+	Platform: Mac, PlayStation 2, Nintendo GameCube, PC, Xbox
+	Year Released: 2000
+	Genre: Simulator, Strategy
+	Rating: T
+	Number of Stars: 80
+Movie 11
+	Game Title: The Elder Scrolls V: Skyrim
+	Platform: Xbox 360, PlayStation 3, PC
+	Year Released: 2011
+	Genre: Adventure, Role-playing(RPG)
+	Rating: M17+
+	Number of Stars: 88
+Movie 12
+	Game Title: Just Dance 2020
+	Platform: Wii, Nintendo Switch, Xbox One, PC, Playstation 4
+	Year Released: 2019
+	Genre: Music, Fitness
+	Rating: E10+
+	Number of Stars: 76
+Movie 13
+	Game Title: World of Warcraft
+	Platform: PC, Mac
+	Year Released: 2004
+	Genre: Adventure, Role-playing(RPG)
+	Rating: T
+	Number of Stars: 86
+Movie 14
+	Game Title: Pitfall!
+	Platform: Xbox 360, Atari, MSX, PC, NES, Intellivision, ColecoVision, Apple II, Windows Phone, iOS, Android, Commodore 64, Comodore 128
+	Year Released: 1982
+	Genre: Platform
+	Rating: E
+	Number of Stars: 74
+Movie 15
+	Game Title: Barbie
+	Platform: Commodore 64, Commodore 128
+	Year Released: 1984
+	Genre: Simulator
+	Rating: E
+	Number of Stars: 83
+Movie 16
+	Game Title: Bump n Jump
+	Platform: Intellivision, Arcade, Atari 2600, ColecoVision, NES, Sharp X1
+	Year Released: 1982
+	Genre: Arcade, Racing
+	Rating: E
+	Number of Stars: 68
+Movie 17
+	Game Title: Frogger
+	Platform: Commodore, Intellivison, Arcade, Atari, PC DOS, ColecoVision, Mac, Phillips Videopac G7000, Game Boy Color, Apple II, SNES, MSX, Sega Mega Drive Genesis, Game Boy, Texus Instruments TI-99
+	Year Released: 1981
+	Genre: Arcade, Platform
+	Rating: E
+	Number of Stars: 65
+Movie 18
+	Game Title: Silent Hill
+	Platform: Playstation
+	Year Released: 1999
+	Genre: Adventure, Puzzle
+	Rating: M17+
+	Number of Stars: 85
+Movie 19
+	Game Title: Kirby's Adventure
+	Platform: Wii, NES, Wii U, Nintendo Switch
+	Year Released: 1993
+	Genre: Adventure, Platform
+	Rating: E
+	Number of Stars: 84
+Movie 20
+	Game Title: Halo 2
+	Platform: XBox One, PC, XBox
+	Year Released: 2004
+	Genre: Shooter
+	Rating: M17+
+	Number of Stars: 85
+What would you like to do?
+1.  Load video games from file
+2.  Save video games to a file
+3.  Add a video game
+4.  Remove a video game
+5.  Display all video games
+6.  Remove ALL video games from this library and end program
+Choose 1-6:
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+Text Destructor: Released memory for textArray.
+
+VideoGame Destructor: Released memory for title, platform, genre, and age rating.
+
+VideoGameLibrary Destructor: Released memory for each game in the video game array and the array itself.
+
+Goodbye!
